@@ -10,6 +10,7 @@
             <file>file:/D:/ws-eclipse/demo-dao-jdbc/src/model/entities/Department.java</file>
             <file>file:/D:/ws-eclipse/demo-dao-jdbc/src/model/dao/DepartmentDao.java</file>
             <file>file:/D:/ws-eclipse/demo-dao-jdbc/src/model/dao/SellerDao.java</file>
+            <file>file:/D:/ws-eclipse/demo-dao-jdbc/db.properties</file>
             <file>file:/D:/ws-eclipse/demo-dao-jdbc/src/model/entities/Seller.java</file>
         </group>
     </open-files>
